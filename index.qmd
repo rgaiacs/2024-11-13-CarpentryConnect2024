@@ -1,0 +1,54 @@
+---
+title: "Escaping the circles of installation hell"
+author:
+  - name: Raniere Silva
+    orcid: 0000-0002-8381-3749
+    email: Raniere.CostadaSilva@gesis.org
+    affiliations:
+      - name: GESIS Leibniz Institute for the Social Sciences
+  - name: Jannetta Steyn
+    affiliations:
+      - name: Newcastle University
+format: revealjs
+---
+
+## Software Carpentry 1.0
+
+> In response, John Reynders (then director of the Advanced Computing Laboratory at Los Alamos National Laboratory) invited the [Greg Wilson] and Brent Gorda (now at Intel) to teach a week-long course to LANL staff. This course ran for the first time in July 1998, and was repeated nine times over the next four years.
+
+Wilson G. Software Carpentry: lessons learned [version 2; peer review: 3 approved]. F1000Research 2016, 3:62 ([https://doi.org/10.12688/f1000research.3-62.v2](https://doi.org/10.12688/f1000research.3-62.v2)) 
+
+## In July of 1998 ...
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Python
+
+Version [1.5.1](https://github.com/python/cpython/releases/tag/v1.5.1) has just been released.
+
+Python Package Index (PyPI) has not been created, [launched around 2003](https://en.wikipedia.org/wiki/Python_Package_Index).
+
+Numeric (now called NumPy) has just released version 1.0.0 (source needed).
+
+<!-- SciPy has not been created, [first release around 2001](https://en.wikipedia.org/wiki/SciPy). -->
+:::
+
+::: {.column width="50%"}
+### R
+
+Version [0.62.2](https://cran.r-project.org/src/base/R-0/) has jut been released.
+
+The Comprehensive R Archive Network [(CRAN) has just been founded in 1997](https://en.wikipedia.org/wiki/R_(programming_language)).
+
+ggplot2 has not been created, [first release in 10 June 2007](https://en.wikipedia.org/wiki/Ggplot2).
+:::
+
+::::
+
+## Back to the Future, or 2012
+
+> Software Carpentry rebooted again in January 2012 with a grant from the Sloan Foundation to the Mozilla Foundation. This time, the model was two-day intensive workshops like those pioneered by The Hacker Within, a grassroots group of grad students helping grad students at the University of Wisconsin - Madison.
+
+Wilson G. Software Carpentry: lessons learned [version 2; peer review: 3 approved]. F1000Research 2016, 3:62 ([https://doi.org/10.12688/f1000research.3-62.v2](https://doi.org/10.12688/f1000research.3-62.v2)) 
+
