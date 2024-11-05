@@ -36,7 +36,7 @@ This a summary of the software landscape when Software Carpentry started.
 ::: {.column width="50%"}
 ### Python
 
-Version [1.5.1](https://github.com/python/cpython/releases/tag/v1.5.1) has just been released.
+Version [1.5.1](https://github.com/python/cpython/releases/tag/v1.5.1) is the latest release.
 
 Python Package Index (PyPI) has not been created, [it was launched in 2003](https://en.wikipedia.org/wiki/Python_Package_Index).
 
@@ -48,7 +48,7 @@ Numeric (now called NumPy) was [announced in 1995](http://hugunin.net/papers/hug
 ::: {.column width="50%"}
 ### R
 
-Version [0.62.2](https://cran.r-project.org/src/base/R-0/) has just been released.
+Version [0.62.2](https://cran.r-project.org/src/base/R-0/) is the latest release.
 
 The Comprehensive R Archive Network [(CRAN) has just been founded in 1997](https://en.wikipedia.org/wiki/R_(programming_language)).
 
@@ -78,7 +78,7 @@ This a summary of the software landscape when Software Carpentry rebooted as par
 ::: {.column width="50%"}
 ### Python
 
-Versions [2.7.3](https://github.com/python/cpython/releases/tag/v2.7.3) and [3.1.5](https://github.com/python/cpython/releases/tag/v3.1.5) have just been released.
+Versions [2.7.3](https://github.com/python/cpython/releases/tag/v2.7.3) and [3.1.5](https://github.com/python/cpython/releases/tag/v3.1.5) are the latest releases.
 
 Many packages from Python Package Index (PyPI) [only work with Python 2.x.y](https://en.wikipedia.org/wiki/History_of_Python#Compatibility).
 :::
@@ -86,7 +86,7 @@ Many packages from Python Package Index (PyPI) [only work with Python 2.x.y](htt
 ::: {.column width="50%"}
 ### R
 
-Version [2.15.0](https://cran.r-project.org/src/base/R-2/) has jut been released.
+Version [2.15.0](https://cran.r-project.org/src/base/R-2/) is the latest release.
 
 RStudio IDE was [released in 2011](https://posit.co/blog/rstudio-new-open-source-ide-for-r/).
 
@@ -106,13 +106,13 @@ This a summary of the software landscape today.
 ::: {.column width="50%"}
 ### Python
 
-Version [3.13.0](https://github.com/python/cpython/releases/tag/v3.13.0) has just been released.
+Version [3.13.0](https://github.com/python/cpython/releases/tag/v3.13.0) is the latest release.
 :::
 
 ::: {.column width="50%"}
 ### R
 
-Version [4.4.1](https://cran.r-project.org/src/base/R-4/) has jut been released.
+Version [4.4.1](https://cran.r-project.org/src/base/R-4/) is the latest release.
 :::
 
 ::::
