@@ -57,6 +57,12 @@ ggplot (now called ggplot2) has **not** been created, [ggplot first release was 
 
 ::::
 
+## Also in July of 1998 ...
+
+Microsoft's [Windows 98 was released the month before (June 1998)](https://en.wikipedia.org/wiki/Windows_98).
+
+[Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System) (CVS) was the most popular  version control system.
+
 ## Back to the Future, or 2012
 
 ::: {.notes}
