@@ -63,7 +63,9 @@ Microsoft's [Windows 98 was released the month before (June 1998)](https://en.wi
 
 Apple's [Mac OS 8 was released the year before (1997)](https://en.wikipedia.org/wiki/Classic_Mac_OS#Mac_OS_8).
 
-[Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System) (CVS) was the most popular  version control system.
+[Concurrent Versions System](https://en.wikipedia.org/wiki/Concurrent_Versions_System) (CVS) was the most popular version control system.
+
+[The first x86 virtualization product was under development](https://en.wikipedia.org/wiki/Timeline_of_virtualization_technologies#1990s) by VMware.
 
 ## Back to the Future, or 2012
 
