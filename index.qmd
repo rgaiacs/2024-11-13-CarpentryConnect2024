@@ -177,3 +177,8 @@ Version [4.4.1](https://cran.r-project.org/src/base/R-4/) is the latest release.
 ## Unix-like shell in Windows
 
 [Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) 2 (WSL2) is a fabulous solution.
+
+## Acknowledgment
+
+- [Filipe Fernandes](https://github.com/ocefpaf) and [Julio Batista](https://github.com/jbsilva) for answer my questions about PEP 427.
+- [W. Trevor King](https://github.com/wking) and [Ethan White](https://github.com/ethanwhite) for the contributions to [Software Carpentry Windows Installer](https://github.com/swcarpentry/windows-installer)
