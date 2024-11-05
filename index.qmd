@@ -105,6 +105,17 @@ dplyr (and tidyverse) has not been created, [dplyr first release was in 2014](ht
 
 ::::
 
+## Also in 2012 ...
+
+Microsoft's [Windows 8 was released this year (2012)](https://en.wikipedia.org/wiki/Windows_8).
+
+Apple's [OS X 10.8 (Mountain Lion) was released this year (2012)](https://en.wikipedia.org/wiki/MacOS).
+
+[Git](https://en.wikipedia.org/wiki/Git) and [Mercurial](https://en.wikipedia.org/wiki/Mercurial) were the most popular version control system. [Apache Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) (SVN) had lost a lot of version control system market share.
+
+[GitHub](https://en.wikipedia.org/wiki/GitHub) replaced [SourceForge](https://en.wikipedia.org/wiki/SourceForge) as the hosting for open source software source code.
+
+[Docker](https://en.wikipedia.org/wiki/Docker_(software)) was under development.
 ## In 2024 ...
 
 ::: {.notes}
