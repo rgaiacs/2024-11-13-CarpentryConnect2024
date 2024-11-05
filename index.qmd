@@ -48,7 +48,7 @@ Numeric (now called NumPy) was [announced in 1995](http://hugunin.net/papers/hug
 ::: {.column width="50%"}
 ### R
 
-Version [0.62.2](https://cran.r-project.org/src/base/R-0/) has jut been released.
+Version [0.62.2](https://cran.r-project.org/src/base/R-0/) has just been released.
 
 The Comprehensive R Archive Network [(CRAN) has just been founded in 1997](https://en.wikipedia.org/wiki/R_(programming_language)).
 
