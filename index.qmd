@@ -115,7 +115,9 @@ Apple's [OS X 10.8 (Mountain Lion) was released this year (2012)](https://en.wik
 
 [Git](https://en.wikipedia.org/wiki/Git) and [Mercurial](https://en.wikipedia.org/wiki/Mercurial) were the most popular version control system. [Apache Subversion](https://en.wikipedia.org/wiki/Apache_Subversion) (SVN) had lost a lot of version control system market share.
 
-[GitHub](https://en.wikipedia.org/wiki/GitHub) replaced [SourceForge](https://en.wikipedia.org/wiki/SourceForge) as the hosting for open source software source code.
+[GitHub](https://en.wikipedia.org/wiki/GitHub) replaced [SourceForge](https://en.wikipedia.org/wiki/SourceForge) as the hosting platform for open source software source code.
+
+[PEP 427 – The Wheel Binary Package Format 1.0](Application period: Early April - May 15, 2024) was created this year (2012).
 
 [Docker](https://en.wikipedia.org/wiki/Docker_(software)) was under development.
 
@@ -133,6 +135,22 @@ The options were
 
 - "Host" file system mapping
 - Copy and paste
+
+## Source Distribution
+
+From [Python Packaging User Guide's Glossary](https://packaging.python.org/en/latest/glossary/#term-Source-Distribution-or-sdist)
+
+> A distribution format [...] that provides metadata and the essential source files needed for installing by a tool [...]
+
+This is a popular option for many package manager, for example, [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) and [CRAN](https://en.wikipedia.org/wiki/R_package#Comprehensive_R_Archive_Network_(CRAN)).
+
+## Built Distribution
+
+From [Python Packaging User Guide's Glossary](https://packaging.python.org/en/latest/glossary/#term-Built-Distribution)
+
+> A Distribution format containing files and metadata that only need to be moved to the correct location on the target system, to be installed. 
+
+This is a popular option for many package manager, for example, [dpkg](https://en.wikipedia.org/wiki/Dpkg), [rpm](https://en.wikipedia.org/wiki/RPM_Package_Manager), [conda](https://en.wikipedia.org/wiki/Conda_(package_manager)) and [Posit Package Manager](https://en.wikipedia.org/wiki/R_package#MRAN_and_Posit_Package_Manager).
 
 ## In 2024 ...
 
@@ -155,3 +173,7 @@ Version [4.4.1](https://cran.r-project.org/src/base/R-4/) is the latest release.
 :::
 
 ::::
+
+## Unix-like shell in Windows
+
+[Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) 2 (WSL2) is a fabulous solution.
