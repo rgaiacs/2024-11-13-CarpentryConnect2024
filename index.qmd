@@ -38,11 +38,11 @@ This a summary of the software landscape when Software Carpentry started.
 
 Version [1.5.1](https://github.com/python/cpython/releases/tag/v1.5.1) has just been released.
 
-Python Package Index (PyPI) has not been created, [launched around 2003](https://en.wikipedia.org/wiki/Python_Package_Index).
+Python Package Index (PyPI) has not been created, [it was launched in 2003](https://en.wikipedia.org/wiki/Python_Package_Index).
 
-Numeric (now called NumPy) has just released version 1.0.0 (source needed).
+Numeric (now called NumPy) was [announced in 1995](http://hugunin.net/papers/hugunin95numpy.html).
 
-<!-- SciPy has not been created, [first release around 2001](https://en.wikipedia.org/wiki/SciPy). -->
+<!-- SciPy has not been created, [first release around 2001](https://arxiv.org/abs/1907.10121). -->
 :::
 
 ::: {.column width="50%"}
