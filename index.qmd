@@ -121,6 +121,30 @@ Apple's [OS X 10.8 (Mountain Lion) was released this year (2012)](https://en.wik
 
 [Docker](https://en.wikipedia.org/wiki/Docker_(software)) was under development.
 
+## Source Distribution
+
+::: {.notes}
+The native package manager for Python and R install new packages from source distribution. Because the package manager gets only the source code, the package manager needs to compile the source code to binary and, because of that, the user's computer needs additional software like GCC.
+:::
+
+From [Python Packaging User Guide's Glossary](https://packaging.python.org/en/latest/glossary/#term-Source-Distribution-or-sdist)
+
+> A distribution format [...] that provides metadata and the essential source files needed for installing by a tool [...]
+
+This is a popular option for many package manager, for example, [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) and [CRAN](https://en.wikipedia.org/wiki/R_package#Comprehensive_R_Archive_Network_(CRAN)).
+
+## Built Distribution
+
+::: {.notes}
+To remove the requirement that the user's computer has GCC, some package managers download binaries instead of the source code.
+:::
+
+From [Python Packaging User Guide's Glossary](https://packaging.python.org/en/latest/glossary/#term-Built-Distribution)
+
+> A Distribution format containing files and metadata that only need to be moved to the correct location on the target system, to be installed. 
+
+This is a popular option for many package manager, for example, [dpkg](https://en.wikipedia.org/wiki/Dpkg), [rpm](https://en.wikipedia.org/wiki/RPM_Package_Manager), [conda](https://en.wikipedia.org/wiki/Conda_(package_manager)) and [Posit Package Manager](https://en.wikipedia.org/wiki/R_package#MRAN_and_Posit_Package_Manager).
+
 ## Unix-like shell in Windows
 
 The options were
@@ -136,21 +160,7 @@ The options were
 - "Host" file system mapping
 - Copy and paste
 
-## Source Distribution
 
-From [Python Packaging User Guide's Glossary](https://packaging.python.org/en/latest/glossary/#term-Source-Distribution-or-sdist)
-
-> A distribution format [...] that provides metadata and the essential source files needed for installing by a tool [...]
-
-This is a popular option for many package manager, for example, [pip](https://en.wikipedia.org/wiki/Pip_(package_manager)) and [CRAN](https://en.wikipedia.org/wiki/R_package#Comprehensive_R_Archive_Network_(CRAN)).
-
-## Built Distribution
-
-From [Python Packaging User Guide's Glossary](https://packaging.python.org/en/latest/glossary/#term-Built-Distribution)
-
-> A Distribution format containing files and metadata that only need to be moved to the correct location on the target system, to be installed. 
-
-This is a popular option for many package manager, for example, [dpkg](https://en.wikipedia.org/wiki/Dpkg), [rpm](https://en.wikipedia.org/wiki/RPM_Package_Manager), [conda](https://en.wikipedia.org/wiki/Conda_(package_manager)) and [Posit Package Manager](https://en.wikipedia.org/wiki/R_package#MRAN_and_Posit_Package_Manager).
 
 ## In 2024 ...
 
