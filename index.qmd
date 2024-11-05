@@ -1,5 +1,8 @@
 ---
 title: "Escaping the circles of installation hell"
+title-slide-attributes:
+  data-background-image: img/sandro_botticelli_inferno.jpg
+  data-background-opacity: "0.4"
 author:
   - name: Raniere Silva
     orcid: 0000-0002-8381-3749
@@ -160,7 +163,11 @@ The options were
 - "Host" file system mapping
 - Copy and paste
 
+## {background-image="img/sandro_botticelli_inferno.jpg"}
 
+::: {.notes}
+Welcome to the installation hell.
+:::
 
 ## In 2024 ...
 
