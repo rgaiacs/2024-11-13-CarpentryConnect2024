@@ -70,7 +70,7 @@ Wilson G. Software Carpentry: lessons learned [version 2; peer review: 3 approve
 ## In 2012 ...
 
 ::: {.notes}
-This a summary of the software landscape when Software Carpentry rebooted as part of Mozilla Science Lab.
+This a summary of the software landscape when Software Carpentry rebooted as part of Mozilla Science Lab. This was soon after the first release of IPython Notebook and RStudio IDE.
 :::
 
 :::: {.columns}
@@ -79,6 +79,8 @@ This a summary of the software landscape when Software Carpentry rebooted as par
 ### Python
 
 Versions [2.7.3](https://github.com/python/cpython/releases/tag/v2.7.3) and [3.1.5](https://github.com/python/cpython/releases/tag/v3.1.5) are the latest releases.
+
+IPython Notebook (now called Jupyter Notebook) was [released in 2011](https://ipython.org/news.html#ipython-0-12).
 
 Many packages from Python Package Index (PyPI) [only work with Python 2.x.y](https://en.wikipedia.org/wiki/History_of_Python#Compatibility).
 :::
