@@ -80,7 +80,7 @@ This a summary of the software landscape when Software Carpentry rebooted as par
 
 Versions [2.7.3](https://github.com/python/cpython/releases/tag/v2.7.3) and [3.1.5](https://github.com/python/cpython/releases/tag/v3.1.5) are the latest releases.
 
-IPython Notebook (now called Jupyter Notebook) was [released in 2011](https://ipython.org/news.html#ipython-0-12).
+[IPython Notebook (now called Jupyter Notebook) was released the year before (2011)](https://ipython.org/news.html#ipython-0-12).
 
 Many packages from Python Package Index (PyPI) [only work with Python 2.x.y](https://en.wikipedia.org/wiki/History_of_Python#Compatibility).
 :::
@@ -90,9 +90,9 @@ Many packages from Python Package Index (PyPI) [only work with Python 2.x.y](htt
 
 Version [2.15.0](https://cran.r-project.org/src/base/R-2/) is the latest release.
 
-RStudio IDE was [released in 2011](https://posit.co/blog/rstudio-new-open-source-ide-for-r/).
+[RStudio IDE was released the year before (2011)](https://posit.co/blog/rstudio-new-open-source-ide-for-r/).
 
-dplyr (and tidyverse) has not been created, [first release in 2014](https://dplyr.tidyverse.org//news/index.html#dplyr-011).
+dplyr (and tidyverse) has not been created, [dplyr first release was in 2014](https://dplyr.tidyverse.org//news/index.html#dplyr-011).
 :::
 
 ::::
