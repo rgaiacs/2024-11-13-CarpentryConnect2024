@@ -59,7 +59,38 @@ ggplot2 has not been created, [first release in 10 June 2007](https://en.wikiped
 
 ## Back to the Future, or 2012
 
+::: {.notes}
+This is when Raniere got involved with Software Carpentry.
+:::
+
 > Software Carpentry rebooted again in January 2012 with a grant from the Sloan Foundation to the Mozilla Foundation. This time, the model was two-day intensive workshops like those pioneered by The Hacker Within, a grassroots group of grad students helping grad students at the University of Wisconsin - Madison.
 
 Wilson G. Software Carpentry: lessons learned [version 2; peer review: 3 approved]. F1000Research 2016, 3:62 ([https://doi.org/10.12688/f1000research.3-62.v2](https://doi.org/10.12688/f1000research.3-62.v2)) 
 
+## In 2012 ...
+
+::: {.notes}
+This a summary of the software landscape when Software Carpentry rebooted as part of Mozilla Science Lab.
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Python
+
+Versions [2.7.3](https://github.com/python/cpython/releases/tag/v2.7.3) and [3.1.5](https://github.com/python/cpython/releases/tag/v3.1.5) have just been released.
+
+Many packages from Python Package Index (PyPI) [only work with Python 2.x.y](https://en.wikipedia.org/wiki/History_of_Python#Compatibility).
+:::
+
+::: {.column width="50%"}
+### R
+
+Version [2.15.0](https://cran.r-project.org/src/base/R-2/) has jut been released.
+
+RStudio IDE was [released in 2011](https://posit.co/blog/rstudio-new-open-source-ide-for-r/).
+
+dplyr (and tidyverse) has not been created, [first release in 2014](https://dplyr.tidyverse.org//news/index.html#dplyr-011).
+:::
+
+::::
