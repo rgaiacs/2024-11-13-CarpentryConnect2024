@@ -9,7 +9,10 @@ author:
   - name: Jannetta Steyn
     affiliations:
       - name: Newcastle University
-format: revealjs
+format:
+  revealjs:
+    min-scale: 1
+    max-scale: 1
 ---
 
 ## Software Carpentry 1.0
