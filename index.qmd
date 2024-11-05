@@ -165,6 +165,10 @@ The options were
 
 ## {background-image="img/sandro_botticelli_inferno.jpg"}
 
+::: aside
+[Source](https://commons.wikimedia.org/wiki/File:Sandro_Botticelli_-_La_Carte_de_l%27Enfer.jpg): Botticelli : de Laurent le Magnifique à Savonarole : catalogue de l'exposition à Paris, Musée du Luxembourg, du 1er octobre 2003 au 22 février 2004 et à Florence, Palazzo Strozzi, du 10 mars au 11 juillet 2004. Milan : Skira editore, Paris : Musée du Luxembourg, 2003. ISBN 9788884915641
+:::
+
 ::: {.notes}
 Welcome to the installation hell.
 :::
