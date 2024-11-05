@@ -17,11 +17,19 @@ format:
 
 ## Software Carpentry 1.0
 
+::: {.notes}
+This is how Software Carpentry started.
+:::
+
 > In response, John Reynders (then director of the Advanced Computing Laboratory at Los Alamos National Laboratory) invited the [Greg Wilson] and Brent Gorda (now at Intel) to teach a week-long course to LANL staff. This course ran for the first time in July 1998, and was repeated nine times over the next four years.
 
 Wilson G. Software Carpentry: lessons learned [version 2; peer review: 3 approved]. F1000Research 2016, 3:62 ([https://doi.org/10.12688/f1000research.3-62.v2](https://doi.org/10.12688/f1000research.3-62.v2)) 
 
 ## In July of 1998 ...
+
+::: {.notes}
+This a summary of the software landscape when Software Carpentry started.
+:::
 
 :::: {.columns}
 
