@@ -118,6 +118,22 @@ Apple's [OS X 10.8 (Mountain Lion) was released this year (2012)](https://en.wik
 [GitHub](https://en.wikipedia.org/wiki/GitHub) replaced [SourceForge](https://en.wikipedia.org/wiki/SourceForge) as the hosting for open source software source code.
 
 [Docker](https://en.wikipedia.org/wiki/Docker_(software)) was under development.
+
+## Unix-like shell in Windows
+
+The options were
+
+- [Cygwin](https://en.wikipedia.org/wiki/Cygwin)
+- [MinGW](https://en.wikipedia.org/wiki/MinGW)
+
+  [Git for Windows](https://gitforwindows.org/) was based on MinGW.
+- (Oracle) [VirtualBox](https://en.wikipedia.org/wiki/VirtualBox)
+
+### Limitations
+
+- "Host" file system mapping
+- Copy and paste
+
 ## In 2024 ...
 
 ::: {.notes}
