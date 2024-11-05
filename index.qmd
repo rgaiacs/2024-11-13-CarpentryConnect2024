@@ -94,3 +94,25 @@ dplyr (and tidyverse) has not been created, [first release in 2014](https://dply
 :::
 
 ::::
+
+## In 2024 ...
+
+::: {.notes}
+This a summary of the software landscape today.
+:::
+
+:::: {.columns}
+
+::: {.column width="50%"}
+### Python
+
+Version [3.13.0](https://github.com/python/cpython/releases/tag/v3.13.0) has just been released.
+:::
+
+::: {.column width="50%"}
+### R
+
+Version [4.4.1](https://cran.r-project.org/src/base/R-4/) has jut been released.
+:::
+
+::::
