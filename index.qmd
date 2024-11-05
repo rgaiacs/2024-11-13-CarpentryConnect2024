@@ -38,9 +38,9 @@ This a summary of the software landscape when Software Carpentry started.
 
 Version [1.5.1](https://github.com/python/cpython/releases/tag/v1.5.1) is the latest release.
 
-Python Package Index (PyPI) has **not** been created, [it was launched in 2003](https://en.wikipedia.org/wiki/Python_Package_Index).
+Python Package Index (PyPI) has **not** been created, [PyPI was launched in 2003](https://en.wikipedia.org/wiki/Python_Package_Index).
 
-Numeric (now called NumPy) was [announced in 1995](http://hugunin.net/papers/hugunin95numpy.html). matplotlib has **not** been created, [it first release was in 2003](https://matplotlib.org/stable/project/license.html#copyright-policy).
+Numeric (now called NumPy) was [announced in 1995](http://hugunin.net/papers/hugunin95numpy.html). matplotlib has **not** been created, [matplotlib first release was in 2003](https://matplotlib.org/stable/project/license.html#copyright-policy).
 
 <!-- SciPy has not been created, [first release around 2001](https://arxiv.org/abs/1907.10121). -->
 :::
@@ -52,7 +52,7 @@ Version [0.62.2](https://cran.r-project.org/src/base/R-0/) is the latest release
 
 The Comprehensive R Archive Network [(CRAN) was launched the year before (1997)](https://en.wikipedia.org/wiki/R_(programming_language)).
 
-ggplot (now called ggplot2) has **not** been created, [it first release was in 2006](https://cran.r-project.org/src/contrib/Archive/ggplot/).
+ggplot (now called ggplot2) has **not** been created, [ggplot first release was in 2006](https://cran.r-project.org/src/contrib/Archive/ggplot/).
 :::
 
 ::::
@@ -82,7 +82,7 @@ Versions [2.7.3](https://github.com/python/cpython/releases/tag/v2.7.3) and [3.1
 
 [IPython Notebook (now called Jupyter Notebook) was released the year before (2011)](https://ipython.org/news.html#ipython-0-12).
 
-Many packages from Python Package Index (PyPI) [only work with Python 2.x.y](https://en.wikipedia.org/wiki/History_of_Python#Compatibility).
+[Many packages from Python Package Index (PyPI) only work with Python 2.x.y](https://en.wikipedia.org/wiki/History_of_Python#Compatibility).
 :::
 
 ::: {.column width="50%"}
