@@ -106,7 +106,7 @@ Version [2.15.0](https://cran.r-project.org/src/base/R-2/) is the latest release
 
 [RStudio IDE was released the year before (2011)](https://posit.co/blog/rstudio-new-open-source-ide-for-r/).
 
-dplyr (and tidyverse) has not been created, [dplyr first release was in 2014](https://dplyr.tidyverse.org//news/index.html#dplyr-011).
+dplyr (and tidyverse) has not been created, [dplyr first release was in 2014](https://dplyr.tidyverse.org//news/index.html#dplyr-011). Users had access to R's native `apply` and the [plyr](https://github.com/hadley/plyr) package by Hadley Wickham.
 :::
 
 ::::
@@ -124,6 +124,18 @@ Apple's [OS X 10.8 (Mountain Lion) was released this year (2012)](https://en.wik
 [PEP 427 – The Wheel Binary Package Format 1.0](Application period: Early April - May 15, 2024) was created this year (2012).
 
 [Docker](https://en.wikipedia.org/wiki/Docker_(software)) was under development.
+
+## {background-image="img/software-carpentry-workshop.png"}
+
+::: aside
+Source: https://rgaiacs.github.io/2014-05-12-furg/
+:::
+
+## {background-image="img/software-carpentry-lesson.png"}
+
+::: aside
+Source: https://rgaiacs.github.io/2014-05-12-furg/novice/python/02-func.html
+:::
 
 ## Source Distribution
 
