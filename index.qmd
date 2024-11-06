@@ -10,6 +10,7 @@ author:
     affiliations:
       - name: GESIS Leibniz Institute for the Social Sciences
   - name: Jannetta Steyn
+    orcid: 0000-0002-0231-9897
     affiliations:
       - name: Newcastle University
 format:
