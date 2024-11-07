@@ -319,7 +319,30 @@ From the Microsoft Store, user can search for "linux" or the name of the GNU/Lin
 Windows Explorer will have a top level entry named "Linux" with sub-entries for each of the installed subsystem.
 :::
 
+## New Challanges
+
+1. Teach learners on new software development platforms.
+1. Access to NVIDIA CUDA and AMD ROCm compatible hardware during The Carpentries workshops.
+1. Access to message passing interface (MPI) environments during The Carpentries workshops.
+
+## {background-image="img/carpentriesoffline.org-mini-hpc.png"}
+
+::: {.notes}
+One solution developed by Jannetta Steyn and others is the mini HPC
+:::
+
+::: aside
+Source: https://carpentriesoffline.org/miniHPC.html
+:::
+
 ## Acknowledgment
 
 - [Filipe Fernandes](https://github.com/ocefpaf) and [Julio Batista](https://github.com/jbsilva) for answer my questions about PEP 427.
-- [W. Trevor King](https://github.com/wking) and [Ethan White](https://github.com/ethanwhite) for the contributions to [Software Carpentry Windows Installer](https://github.com/swcarpentry/windows-installer)
+- [W. Trevor King](https://github.com/wking) and [Ethan White](https://github.com/ethanwhite) for the contributions to [Software Carpentry Windows Installer](https://github.com/swcarpentry/windows-installer).
+
+## Discussion
+
+1. What are other installation challenges that you encounter before when running a The Carpentries workshop?
+1. How to leverage new software development platforms?
+1. How to provide access to NVIDIA CUDA and AMD ROCm compatible hardware during The Carpentries workshops?
+1. How to provide access to message passing interface (MPI) environments during The Carpentries workshops?
