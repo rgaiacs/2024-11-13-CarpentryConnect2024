@@ -337,7 +337,7 @@ Source: https://carpentriesoffline.org/miniHPC.html
 
 ## Acknowledgment
 
-- [Filipe Fernandes](https://github.com/ocefpaf) and [Julio Batista](https://github.com/jbsilva) for answer my questions about PEP 427.
+- [Filipe Fernandes](https://github.com/ocefpaf) and [Julio Batista](https://github.com/jbsilva) for answer questions about PEP 427.
 - [W. Trevor King](https://github.com/wking) and [Ethan White](https://github.com/ethanwhite) for the contributions to [Software Carpentry Windows Installer](https://github.com/swcarpentry/windows-installer).
 
 ## Discussion
