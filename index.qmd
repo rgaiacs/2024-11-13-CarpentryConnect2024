@@ -274,6 +274,10 @@ Source: https://mybinder.org/
 This a summary of the software landscape today.
 :::
 
+Learners have access to local [JupyterHub](https://github.com/jupyterhub/jupyterhub), [mybinder.org](https://mybinder.org/), [Google Colab(oratory)](https://colab.google/), [GitHub Codespaces](https://github.com/features/codespaces), [GitLab Workspaces](https://docs.gitlab.com/ee/user/workspace/).
+
+Also, learners have access to [ChatGPT](https://chatgpt.com/), [Microsoft Copilot](https://copilot.microsoft.com/), Google's [Gemini](https://gemini.google.com/), and many others artificial intelligence based tools.
+
 :::: {.columns}
 
 ::: {.column width="50%"}
