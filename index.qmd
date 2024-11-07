@@ -232,11 +232,41 @@ From [https://github.com/swcarpentry/windows-installer](https://github.com/swcar
 
 ## In 2017 ...
 
+[Docker](https://en.wikipedia.org/wiki/Docker_(software)) has stablished itself as the default containerization software.
+
+[Kubernetes](https://en.wikipedia.org/wiki/Kubernetes) has stablished itself as the open standard for container orchestration system.
+
 ## {background-image="img/github.com-jupyterhub-repo2docker.png"}
+
+::: {.notes}
+Yuvi Panda and others created the repo2docker project to aid the creation of a Docker container that has a running Jupyter server and the content of a Git repository.
+:::
+
+::: aside
+Source: https://github.com/jupyterhub/repo2docker/commit/8ddf7704cec5866877b954cf3ae619a2a524de1a
+:::
 
 ## {background-image="img/github.com-jupyterhub-mybinder.org-deploy.png"}
 
+::: {.notes}
+Yuvi Panda and others created the mybinder.org project to provide a free of charge online service that aid researchers to explore the content of a Git repository.
+:::
+
+::: aside
+Source: https://github.com/jupyterhub/mybinder.org-deploy/commit/ba748441aef73c9912a222b97daae1199737e53a
+:::
+
 ## {background-image="img/mybinder.org.png"}
+
+::: {.notes}
+mybinder.org followed the 1-Click technique championed by Amazon.
+
+Some The Carpentries workshop used mybinder.org as back-up for students that were having serious problems to install the softwares used in the workshop. Unfortunately, all the computation done on mybinder.org is annoymous and ephemeral.
+:::
+
+::: aside
+Source: https://mybinder.org/
+:::
 
 ## In 2024 ...
 
