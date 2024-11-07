@@ -132,10 +132,38 @@ Apple's [OS X 10.8 (Mountain Lion) was released this year (2012)](https://en.wik
 Source: https://rgaiacs.github.io/2014-05-12-furg/
 :::
 
+::: {.notes}
+This is how the Software Carpentry workshop page looks like in 2014.
+:::
+
 ## {background-image="img/software-carpentry-lesson.png"}
+
+::: {.notes}
+This is how the Software Carpentry workshop page looks like in 2014.
+:::
 
 ::: aside
 Source: https://rgaiacs.github.io/2014-05-12-furg/novice/python/02-func.html
+:::
+
+## {background-image="img/openstreetmap.org-ufrg.png"}
+
+::: {.notes}
+In some locations, the internet provided by the host of the Software Carpentry workshop was not capable of handle the simultaneous request from 20 or more learners to install the software used during the workshop.
+:::
+
+::: aside
+Source: https://www.openstreetmap.org/
+:::
+
+## {background-image="img/carpentriesoffline.org-flashdrive.png"}
+
+::: {.notes}
+A solution that was developed by Jannetta Steyn and others was to provide all the possible dependencies of a The Carpentries workshop in a flashdrive.
+:::
+
+::: aside
+Source: https://carpentriesoffline.org/flashdrive.html
 :::
 
 ## Source Distribution
@@ -199,6 +227,14 @@ From [https://github.com/swcarpentry/windows-installer](https://github.com/swcar
 > - Provides standard nosetests behavior for msysGit
 > - Adds R's bin directory to the path (if we can find it)
 > :::
+
+## In 2017 ...
+
+## {background-image="img/github.com-jupyterhub-repo2docker.png"}
+
+## {background-image="img/github.com-jupyterhub-mybinder.org-deploy.png"}
+
+## {background-image="img/mybinder.org.png"}
 
 ## In 2024 ...
 
