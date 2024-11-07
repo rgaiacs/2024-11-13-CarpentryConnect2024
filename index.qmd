@@ -169,6 +169,8 @@ Source: https://carpentriesoffline.org/flashdrive.html
 ## Source Distribution
 
 ::: {.notes}
+Access to the internet to download the packages is not the only limitation. Installation can also be a problem.
+
 The native package manager for Python and R install new packages from source distribution. Because the package manager gets only the source code, the package manager needs to compile the source code to binary and, because of that, the user's computer needs additional software like GCC.
 :::
 
