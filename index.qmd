@@ -296,7 +296,28 @@ Version [4.4.1](https://cran.r-project.org/src/base/R-4/) is the latest release.
 
 ## Unix-like shell in Windows
 
-[Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) 2 (WSL2) is a fabulous solution.
+[Windows Subsystem for Linux](https://en.wikipedia.org/wiki/Windows_Subsystem_for_Linux) 2 (WSL2) is a fabulous solution! Give it a try!
+
+1. Easy installation using Windows' Microsoft Store.
+2. Native support to many GNU/Linux distributions, including Ubuntu, Debian, Fedora, SUSE and many others. Search for "linux" on Windows' Microsoft Store.
+3. Bi-directional file system mapping.
+
+   From Windows, use Windows Explorer to access the "Linux" top level entry or `\\wsl.localhost`.
+
+   From GNU/Linux, use `/mnt/c/`.
+4. It is the recommended way to use Docker and Kubernetes.
+
+## {background-image="img/microsoft-store-linux.png"}
+
+::: {.notes}
+From the Microsoft Store, user can search for "linux" or the name of the GNU/Linux distribution.
+:::
+
+## {background-image="img/windows-explorer-wls2.png"}
+
+::: {.notes}
+Windows Explorer will have a top level entry named "Linux" with sub-entries for each of the installed subsystem.
+:::
 
 ## Acknowledgment
 
